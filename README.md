@@ -23,8 +23,8 @@ Dans la mesure ou il me sert a reunir des infos pour moi, je le mets a jour regu
 <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"> 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" alt="PhpMyAdmin" width="60" height="40"/> </a>
 
-<a href="https://www.json.org/json-fr.html" target="_blank" rel="noreferrer"> 
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/240px-JSON_vector_logo.svg.png" alt="JSON" width="40" height="40"/> </a>
+<a href="https://sql.developpez.com/" target="_blank" rel="noreferrer"> 
+	<img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="SQL" width="40" height="40"/> </a>
 
 <!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> -->
