@@ -2,9 +2,7 @@
 
 ## A PROPOS DE CMSWEBSITE
 
-Par souci de rationnalisation, je rassemble peu a peu mes projets (petits ou grands) dans un (et a l'avenir plusieurs) repo.
-
-Dans la mesure ou il me sert a reunir des infos pour moi, je le mets a jour regulierement.
+Un exercice pour developper un CMS permettant au client de modifier son site.
 
 ## ENJOY PLAYING WITH THOSE WEB TOOLS
 
